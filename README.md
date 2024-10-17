@@ -1,1 +1,2 @@
-Hirundo Creative
+# E. Alicea
+TODO Complete personal bio
